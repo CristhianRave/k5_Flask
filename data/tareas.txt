@@ -1,0 +1,4 @@
+Tarea principal,Hacer cosas,2020-01-06
+Otra tarea,Una descripción muchísimo más larga,2020-01-15
+esta,es horrible,2020-01-29
+t7,sin d,2020-02-02

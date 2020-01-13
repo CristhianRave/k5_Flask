@@ -1,4 +1,5 @@
+  
 from tasks import app
 
-if __name__ == ('__ main__'):
+if __name__ == '__main__':
     app.run
